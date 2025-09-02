@@ -1,8 +1,0 @@
-package Javafile;
-
-public class Bridgelabz {
-	public static void main(String[]args) {
-		System.out.println("welcome to Bridgelab!");
-	}
-
-}
