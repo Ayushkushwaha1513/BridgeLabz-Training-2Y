@@ -1,6 +1,4 @@
-package Assignment_5.lvl1;
-import java.util.Scanner;
-
+import java.Scanner;
 public class chararraycompare {
 
     // User-defined method to convert String to char array (without using toCharArray)
